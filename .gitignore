@@ -1,0 +1,18 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+
+# Archivos de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
