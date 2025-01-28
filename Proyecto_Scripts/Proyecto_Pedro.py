@@ -19,7 +19,7 @@ class AppCompartirScripts:
         
         # Configuración de la base de datos MySQL
         self.db_config = {
-            'host': 'localhost',
+            'host': '192.168.192.205',
             'user': 'root',          # Cambiar por tu usuario
             'password': 'password',  # Cambiar por tu contraseña
             'database': 'scripts_db'
