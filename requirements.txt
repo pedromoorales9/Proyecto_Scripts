@@ -1,0 +1,4 @@
+# Dependencias necesarias para la Plataforma de Scripts Colaborativos
+
+mysql-connector-python==8.0.33  # Conexión a la base de datos MySQL
+ttkbootstrap==1.10.1           # Temas modernos para la interfaz gráfica con Tkinter
