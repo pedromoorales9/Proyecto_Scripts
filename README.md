@@ -7,7 +7,6 @@
 
 Aplicación colaborativa diseñada para facilitar la vida de los administradores de sistemas mediante la gestión, edición, ejecución y compartición de scripts en Python y PowerShell, con almacenamiento en MySQL.
 
-![Captura de pantalla de la aplicación](screenshot.png) <!-- Sustituye por una captura real -->
 
 ## Descripción
 
@@ -177,8 +176,8 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 📫 Contacto
 
-- Pedro Miguel Morales Calderín: email@example.com
-- Eloy Ramírez Revuelta: email@example.com
+- Pedro Miguel Morales Calderín: pedromiguel4b@gmail.com
+- Eloy Ramírez Revuelta: eloyramirez171@gmail.com
 
 ---
 
